@@ -14,3 +14,4 @@
 4. 稍候片刻，GitHub Pages 會提供網站網址。之後推送到 `main` 的更新會自動發布。
 
 `index.html` 放在 repository 根目錄，因此不需要額外建置步驟或工作流程。
+https://william6789123.github.io/personal-portfolio/#work
